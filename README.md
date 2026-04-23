@@ -39,7 +39,7 @@ For the latest support, manuals, changelogs, and issue tracking, use the linked 
 
 ### DRH - Add-ons Audit
 
-<img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
 
 A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH - Add-ons Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
 
@@ -50,7 +50,7 @@ A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH
 
 ### DRH - Color Ramp Studio
 
-<img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/user-attachments/assets/f30d565c-d040-471d-86d9-0b774c0351e1" />
 
 An advanced Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps you generate, sample, convert, refine, and restore ramps faster, with curated presets, image-based extraction, Ramp Sampler tools, alpha-aware controls, and flexible editing workflows for shader, geometry nodes, and compositing work.
 
