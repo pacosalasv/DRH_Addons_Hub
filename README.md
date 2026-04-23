@@ -1,113 +1,126 @@
 <div align="center">
-  <img width="680" alt="Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
+  <img width="760" alt="DRH Add-ons Hub banner" src="REPLACE_WITH_BANNER_URL" />
 </div>
 
 <div align="center">
 
-# Add-ons Audit | Support Hub
+# DRH Add-ons Hub
 
-Public technical support for **Add-ons Audit**.
+Blender add-ons, tools, utilities, and support links from **DRH**.
 
-<table>
-  <tr>
-    <td align="center"><strong>Status</strong><br>🟣 <strong>In Development</strong></td>
-    <td align="center"><strong>Version</strong><br><code>1.0.0</code></td>
-    <td align="center"><strong>Blender</strong><br><code>4.2+</code></td>
-    <td align="center"><strong>Platforms</strong><br>Windows, macOS, Linux</td>
-  </tr>
-</table>
+This repository is the central public index for my Blender add-ons, documentation, and support hubs.
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-This repository is the central public support hub for **Add-ons Audit** while development continues.
+This repository lists current and upcoming Blender add-ons published under **DRH**.
 
-</div>
+Use this hub to:
+
+- Explore available add-ons
+- Access support repositories
+- Open documentation
+- Find changelogs and manuals
+- Follow development across products
 
 ---
 
-## Quick links
+## Add-ons
 
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
+### Add-ons Audit
+Audit, compare, export, and maintain Blender add-ons across installations with conflict review, health scoring, snapshot diffs, setup profiles, safer maintenance tools, and clean reporting.
 
-## Use Discussions for
+- **Support:** https://github.com/pacosalasv/DRH_Addons_Audit-Support
+- **Discussions:** https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions
+- **Issues:** https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues
+- **Manual:** https://github.com/pacosalasv/DRH_Addons_Audit-Support/blob/main/docs/manual/user-manual.pdf
 
+### Color Ramp Studio
+Build better Color Ramps faster in Blender with curated presets, image and palette-based generation, Ramp Sampler tools, alpha-aware conversion, and restore-ready workflows.
+
+- **Support:** https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support
+- **Discussions:** https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support/discussions
+- **Issues:** https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support/issues
+- **Manual:** https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support/blob/main/docs/manual/user-manual.pdf
+
+### Rock Studio
+Blender add-on in development.
+
+- **Status:** In Development
+- **Support:** https://github.com/pacosalasv/DRH_Rock_Studio-Support
+
+### Asset Exchange Studio
+Blender add-on in development.
+
+- **Status:** In Development
+- **Support:** https://github.com/pacosalasv/DRH_Asset_Exchange_Studio-Support
+
+### Dice Studio
+Blender add-on in development.
+
+- **Status:** In Development
+- **Support:** https://github.com/pacosalasv/DRH_Dice_Studio-Support
+
+### Dual Units Pro
+Blender add-on in development.
+
+- **Status:** In Development
+- **Support:** https://github.com/pacosalasv/DRH_Dual_Units_Pro-Support
+
+---
+
+## Support
+
+Each add-on has its own public support repository.
+
+Use **Discussions** for:
 - Questions
-- How-to topics
 - Installation help
 - Compatibility checks
-- FAQ
+- Workflow guidance
 - Suggestions
 
-## Use Issues for
-
+Use **Issues** for:
 - Confirmed bugs
-- Reproducible compatibility problems
+- Reproducible problems
 - Feature requests
 - Regressions
 - Marketplace or listing-related problems
 
-## Supported scope
-
-- **Add-on:** Add-ons Audit
-- **Status:** In Development
-- **Current version:** 1.0.0
-- **Minimum Blender version:** 4.2.0
-- **Platforms:** Windows, macOS, Linux
-
-## Before you post
-
-Please include:
-
-- Add-on version
-- Blender version
-- Operating system
-- Installation method
-- Clear steps to reproduce
-- Expected result
-- Actual result
-- Error message, screenshot, or console output when available
-
-## Support policy
-
-This repository is a public support hub. Do not post private account details, license keys, payment information, or confidential files.
-
-## Notes
-
-This add-on is source based, with no obfuscation, no binary-only content, and no external services.
-
-File access is used to:
-
-- Scan installations
-- Read manifests
-- Compare snapshots
-- Export reports
-- Create installable packages
-- Import or export setup profiles
-
-## Where to post
-
-- Open a **Discussion** for questions, setup help, workflow advice, and suggestions
-- Open an **Issue** for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
-
-## Availability
-
-This add-on may be available through multiple marketplaces and storefronts.
-
-For support, documentation, and issue tracking, use this GitHub repository as the central public support hub.
+---
 
 ## Documentation
 
-- [User Manual](docs/manual/user-manual.pdf)
-- [Changelog](CHANGELOG.md)
+Documentation is maintained per add-on so each tool can keep its own:
+
+- User manual
+- Changelog
+- Support discussions
+- Issue tracking
+
+---
+
+## Availability
+
+My add-ons may be available through multiple marketplaces and storefronts.
+
+For documentation, support, and issue tracking, GitHub is the central public support hub.
+
+---
+
+## Status Legend
+
+- **Released**: Publicly available
+- **In Development**: Active work in progress
+- **Planned**: Not publicly released yet
+
+---
 
 ## License
 
-This repository is distributed under **GPL-3.0-or-later**.
+Each add-on and support repository may define its own license and documentation terms.
+
+Please review the license file in each repository for details.
