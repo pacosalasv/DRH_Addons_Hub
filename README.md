@@ -39,7 +39,7 @@ For the latest support, manuals, changelogs, and issue tracking, use the linked 
 
 ### DRH - Add-ons Audit
 
-<img width="360" alt="DRH - Add-ons Audit placeholder" src="https://placehold.co/1200x360?text=DRH+-+Add-ons+Audit" />
+<img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH - Add-ons Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
 
@@ -50,7 +50,7 @@ A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH
 
 ### DRH - Color Ramp Studio
 
-<img width="360" alt="DRH - Color Ramp Studio placeholder" src="https://placehold.co/1200x360?text=DRH+-+Color+Ramp+Studio" />
+<img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 An advanced Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps you generate, sample, convert, refine, and restore ramps faster, with curated presets, image-based extraction, Ramp Sampler tools, alpha-aware controls, and flexible editing workflows for shader, geometry nodes, and compositing work.
 
@@ -61,7 +61,7 @@ An advanced Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio**
 
 ### DRH - Rock Studio
 
-<img width="360" alt="DRH - Rock Studio placeholder" src="https://placehold.co/1200x360?text=DRH+-+Rock+Studio" />
+<img width="360" alt="DRH - Rock Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 A premium procedural rock creation toolkit designed for fast iteration and production control. **DRH - Rock Studio** is aimed at artists who want to generate stylized or realistic rock assets with flexible workflows, reusable presets, controlled variation, and strong integration with Blender mesh and node-based workflows.
 
@@ -72,7 +72,7 @@ A premium procedural rock creation toolkit designed for fast iteration and produ
 
 ### DRH - Asset Exchange Studio
 
-<img width="360" alt="DRH - Asset Exchange Studio placeholder" src="https://placehold.co/1200x360?text=DRH+-+Asset+Exchange+Studio" />
+<img width="360" alt="DRH - Asset Exchange Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 A multi-format asset pipeline tool for Blender focused on import, export, validation, and batch-oriented asset handling. **DRH - Asset Exchange Studio** is built for cleaner handoff workflows, format interoperability, asset checking, and more reliable local exchange across production environments.
 
@@ -83,7 +83,7 @@ A multi-format asset pipeline tool for Blender focused on import, export, valida
 
 ### DRH - Dice Forge
 
-<img width="360" alt="DRH - Dice Forge placeholder" src="https://placehold.co/1200x360?text=DRH+-+Dice+Forge" />
+<img width="360" alt="DRH - Dice Forge banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 A versatile dice generation toolkit for Blender designed to support a wide range of dice styles, shapes, and creative workflows. **DRH - Dice Forge** is intended for artists, tabletop creators, and product designers who want flexible control over custom dice creation, variation, and repeatable generation workflows.
 
@@ -94,7 +94,7 @@ A versatile dice generation toolkit for Blender designed to support a wide range
 
 ### DRH - Dual Units Pro
 
-<img width="360" alt="DRH - Dual Units Pro placeholder" src="https://placehold.co/1200x360?text=DRH+-+Dual+Units+Pro" />
+<img width="360" alt="DRH - Dual Units Pro banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 
 A practical measurement and scene-units workflow tool for Blender. **DRH - Dual Units Pro** is built for users who need alternate unit display, clearer dimension feedback, and faster switching between working units during modeling, layout, product visualization, technical setup, or scale-sensitive production work.
 
