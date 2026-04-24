@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="760" alt="DRH Add-ons Hub banner" src="https://placehold.co/1600x420?text=DRH+Add-ons+Hub" />
+  <img width="760" alt="DRH Add-ons Hub banner" src="https://github.com/user-attachments/assets/ec7f43c2-8cf3-44fb-bca9-12aa81637e5e" />
+
 </div>
 
 <div align="center">
