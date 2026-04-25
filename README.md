@@ -122,25 +122,37 @@ A practical measurement and unit workflow tool for Blender. **DRH - Dual Units**
 <details>
 <summary><H2><strong>Future Add-ons / Planned Development</strong></H2></summary>
 
-Additional DRH add-ons currently planned for future development.
+Additional DRH add-ons and concepts currently planned for future development.
 
-- **DRH - Cloud Studio**
-  Stylized skies, soft volumes, atmosphere, and cinematic scene depth.
+- **DRH - Cloud Studio**  
+  Cinematic skies, soft volumes, and atmospheric depth for environment-driven scene building.
 
-- **DRH - Wheel Studio**
-  Tires, rims, treads, and wheel variations built for visual control.
+- **DRH - Wheel Studio**  
+  Tire, rim, tread, and wheel variation workflows built for visual control and reusable vehicle assets.
 
-- **DRH - Fastener Studio**
-  Bolts, nuts, threads, and industrial details with asset-ready structure.
+- **DRH - Smart Cut**  
+  Precision slicing, symmetry cuts, cutter planes, caps, and bevel-ready results for hard-surface production.
 
-- **DRH - Gear Studio**
-  Precision gears, mechanical rhythm, and clean procedural control.
+- **DRH - Node Toolkit**  
+  Faster node cleanup, layout, resizing, reroute removal, color control, and material graph organization.
 
-- **DRH - Coil Studio**
-  Springs, coils, curves, and tension-based forms for technical scenes.
+- **DRH - Object Layout**  
+  Alignment, distribution, spacing, transform matching, and layout tools for cleaner scene presentation.
 
-- **DRH - Dice Studio**
-  Premium dice creation with clean variation, visual control, and tabletop-focused flexibility.
+- **DRH - Asset Library Tools**  
+  Metadata, licensing, previews, copyright tools, and library cleanup for publish-ready asset collections.
+
+- **DRH - Gear Studio**  
+  Procedural gear creation with mechanical rhythm, clean variation, and precision-focused control.
+
+- **DRH - Fastener Studio**  
+  Bolts, nuts, threads, and industrial details shaped for mechanical assets and hard-surface workflows.
+
+- **DRH - Coil Studio**  
+  Springs, coils, curves, and tension-based forms for technical assets and mechanical detailing.
+
+- **DRH - Material Inventory**  
+  Material reports, image diagnostics, node checks, and exportable review data for production cleanup.
 
 Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
 
