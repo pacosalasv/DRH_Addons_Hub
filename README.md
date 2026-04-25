@@ -97,25 +97,54 @@ A multi-format asset pipeline tool for Blender focused on import, export, valida
 
 ---
 
-### DRH - Dice Studio Pro
+### DRH - Dice Studio
 
-<img width="360" alt="DRH - Dice Studio Pro banner" src="https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/blob/main/docs/media/Logo.png" />
+<img width="360" alt="DRH - Dice Studio banner" src="https://github.com/pacosalasv/DRH_dice_studio-Support/blob/main/docs/media/Logo.png" />
 
-A dice generation toolkit for Blender. **DRH - Dice Studio Pro** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
+A dice generation toolkit for Blender. **DRH - Dice Studio** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
 
 - **Status:** 🟣 In Development
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support)
+- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_dice_studio-Support)
 
 ---
 
-### DRH - Dual Units Pro
+### DRH - Dual Units
 
-<img width="360" alt="DRH - Dual Units Pro banner" src="https://github.com/pacosalasv/DRH_Dual_Units_Pro-Support/blob/main/docs/media/Logo.png" />
+<img width="360" alt="DRH - Dual Units banner" src="https://github.com/pacosalasv/DRH_Dual_Units-Support/blob/main/docs/media/Logo.png" />
 
-A practical measurement and unit workflow tool for Blender. **DRH - Dual Units Pro** is built for users who need faster unit switching, dual measurement context, clearer dimension feedback, and better scale awareness during modeling, layout, product visualization, technical setup, or scale-sensitive production work.
+A practical measurement and unit workflow tool for Blender. **DRH - Dual Units** is built for users who need faster unit switching, dual measurement context, clearer dimension feedback, and better scale awareness during modeling, layout, product visualization, technical setup, or scale-sensitive production work.
 
 - **Status:** 🟣 In Development
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dual_Units_Pro-Support)
+- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dual_Units-Support)
+
+---
+
+<details>
+<summary><H2><strong>Future Add-ons / Planned Development</strong></H2></summary>
+
+Additional DRH add-ons currently planned for future development.
+
+- **DRH - Cloud Studio**
+  Stylized skies, soft volumes, atmosphere, and cinematic scene depth.
+
+- **DRH - Wheel Studio**
+  Tires, rims, treads, and wheel variations built for visual control.
+
+- **DRH - Fastener Studio**
+  Bolts, nuts, threads, and industrial details with asset-ready structure.
+
+- **DRH - Gear Studio**
+  Precision gears, mechanical rhythm, and clean procedural control.
+
+- **DRH - Coil Studio**
+  Springs, coils, curves, and tension-based forms for technical scenes.
+
+- **DRH - Dice Studio**
+  Premium dice creation with clean variation, visual control, and tabletop-focused flexibility.
+
+Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
+
+</details>
 
 ---
 
