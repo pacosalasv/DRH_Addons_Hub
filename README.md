@@ -97,14 +97,14 @@ A multi-format asset pipeline tool for Blender focused on import, export, valida
 
 ---
 
-### DRH - Dice Forge
+### DRH - Dice Studio Pro
 
-<img width="360" alt="DRH - Dice Forge banner" src="https://github.com/pacosalasv/DRH_Dice_Forge-Support/blob/main/docs/media/Logo.png" />
+<img width="360" alt="DRH - Dice Studio Pro banner" src="https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support/blob/main/docs/media/Logo.png" />
 
-A dice generation toolkit for Blender. **DRH - Dice Forge** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
+A dice generation toolkit for Blender. **DRH - Dice Studio Pro** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
 
 - **Status:** 🟣 In Development
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dice_Forge-Support)
+- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dice_Studio_Pro-Support)
 
 ---
 
