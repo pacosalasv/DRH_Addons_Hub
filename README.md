@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="760" alt="DRH Add-ons Hub banner" src="https://github.com/user-attachments/assets/ec7f43c2-8cf3-44fb-bca9-12aa81637e5e" />
+  <img width="760" alt="DRH Add-ons Hub banner" src="docs/media/DRH_Hub.png" />
 </div>
 
 <br>
@@ -53,20 +53,9 @@ For the latest support, manuals, changelogs, and issue tracking, use the linked 
 
 ## Add-ons
 
-### DRH - Add-ons Audit
-
-<img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
-
-A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH - Add-ons Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
-
-- **Status:** 🟠 Production Ready, Pending Approval
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support)
-
----
-
 ### DRH - Color Ramp Studio
 
-<img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/user-attachments/assets/f30d565c-d040-471d-86d9-0b774c0351e1" />
+<img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support/blob/main/docs/media/Logo.png" />
 
 A Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps users generate, sample, convert, refine, restore, and reuse Color Ramp setups for shader, material, Geometry Nodes, and compositing workflows.
 
@@ -75,9 +64,20 @@ A Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps use
 
 ---
 
+### DRH - Add-ons Audit
+
+<img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/pacosalasv/DRH_Addons_Audit-Support/blob/main/docs/media/Logo.png" />
+
+A production-focused auditing and maintenance toolkit for Blender add-ons. **DRH - Add-ons Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
+
+- **Status:** 🟠 Production Ready, Pending Approval
+- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support)
+
+---
+
 ### DRH - Rock Studio
 
-<img width="360" alt="DRH - Rock Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Rock Studio banner" src="https://github.com/pacosalasv/DRH_Rock_Studio-Support/blob/main/docs/media/Logo.png" />
 
 A procedural rock creation toolkit for Blender. **DRH - Rock Studio** helps users generate procedural rock assets as Mesh objects or Geometry Nodes setups, with predefined 2D and 3D placement arrangements for faster environment and asset workflows.
 
@@ -88,7 +88,7 @@ A procedural rock creation toolkit for Blender. **DRH - Rock Studio** helps user
 
 ### DRH - Asset Exchange Studio
 
-<img width="360" alt="DRH - Asset Exchange Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Asset Exchange Studio banner" src="https://github.com/pacosalasv/DRH_Asset_Exchange_Studio-Support/blob/main/docs/media/Logo.png" />
 
 A multi-format asset pipeline tool for Blender focused on import, export, validation, and batch-oriented asset handling. **DRH - Asset Exchange Studio** is built for cleaner handoff workflows, format interoperability, asset checking, and more reliable local exchange across production environments.
 
@@ -99,7 +99,7 @@ A multi-format asset pipeline tool for Blender focused on import, export, valida
 
 ### DRH - Dice Forge
 
-<img width="360" alt="DRH - Dice Forge banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Dice Forge banner" src="https://github.com/pacosalasv/DRH_Dice_Forge-Support/blob/main/docs/media/Logo.png" />
 
 A dice generation toolkit for Blender. **DRH - Dice Forge** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
 
@@ -110,7 +110,7 @@ A dice generation toolkit for Blender. **DRH - Dice Forge** helps users create c
 
 ### DRH - Dual Units Pro
 
-<img width="360" alt="DRH - Dual Units Pro banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+<img width="360" alt="DRH - Dual Units Pro banner" src="https://github.com/pacosalasv/DRH_Dual_Units_Pro-Support/blob/main/docs/media/Logo.png" />
 
 A practical measurement and unit workflow tool for Blender. **DRH - Dual Units Pro** is built for users who need faster unit switching, dual measurement context, clearer dimension feedback, and better scale awareness during modeling, layout, product visualization, technical setup, or scale-sensitive production work.
 
@@ -122,7 +122,7 @@ A practical measurement and unit workflow tool for Blender. **DRH - Dual Units P
 ## More from DRH on BlenderKit
 
 <a href="https://www.blenderkit.com/?query=author_id%3A205846">
-  <img width="220" alt="BlenderKit logo" src="https://github.com/user-attachments/assets/8d611b0d-ae9e-460e-96ca-d14ee3707b64" />
+  <img width="220" alt="BlenderKit logo" src="docs/media/BlenderKit.png" />
 </a>
 
 Explore more Blender work by **Paco Salas | DRH** on BlenderKit, including shaders, materials, HDRIs, scenes, and production-ready resources.
