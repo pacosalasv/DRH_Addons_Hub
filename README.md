@@ -38,6 +38,7 @@ Each add-on below includes:
 
 ## Status legend
 
+- 🟢 **Released** — approved, published, and available in the marketplace.
 - 🟠 **Production Ready, Pending Approval** — ready for marketplace review or release preparation.
 - 🟣 **In Development** — actively being developed and open for feedback.
 
@@ -59,7 +60,7 @@ For the latest support, manuals, changelogs, and issue tracking, use the linked 
 
 A Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps users generate, sample, convert, refine, restore, and reuse Color Ramp setups for shader, material, Geometry Nodes, and compositing workflows.
 
-- **Status:** 🟠 Production Ready, Pending Approval
+- **Status:** 🟢 Released
 - **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support)
 
 ---
