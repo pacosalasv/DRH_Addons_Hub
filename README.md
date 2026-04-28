@@ -164,7 +164,7 @@ Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
 
 ## More from DRH on BlenderKit
 
-<a href="https://www.blenderkit.com/?query=author_id%3A205846">
+<a href="https://www.blenderkit.com/?query=category_subtree:addon+author_id:205846">
   <img width="220" alt="BlenderKit logo" src="docs/media/BlenderKit.png" />
 </a>
 
