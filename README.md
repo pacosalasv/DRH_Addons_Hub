@@ -16,7 +16,8 @@ This repository is the central index for current and upcoming DRH add-ons, with 
 
 <br>
 
-![Production Ready](https://img.shields.io/badge/production%20ready-2%20add--ons-F59E0B?style=for-the-badge)
+![Released](https://img.shields.io/badge/released-1%20add--on-10B981?style=for-the-badge)
+![Production Ready](https://img.shields.io/badge/production%20ready-1%20add--on-F59E0B?style=for-the-badge)
 ![In Development](https://img.shields.io/badge/in%20development-4%20add--ons-7C3AED?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 
