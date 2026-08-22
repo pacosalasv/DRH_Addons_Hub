@@ -1,0 +1,13 @@
+name: Distribution link problem
+description: Report a broken or incorrect official distribution link listed in the DRH Add-ons Hub.
+title: "[Distribution Link]: "
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Link problem
+      description: Identify the add-on and describe the incorrect or broken link.
+    validations:
+      required: true
