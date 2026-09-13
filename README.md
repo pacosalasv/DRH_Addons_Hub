@@ -12,12 +12,11 @@ Blender add-ons, workflow tools, and public support hubs by **DRH**.
 
 **Author:** Paco Salas | DRH
 
-This repository is the central index for current and upcoming DRH add-ons, with direct access to each product's public support repository and official Blendkit release link when available.
+This repository is the central index for current and upcoming DRH add-ons, with direct access to each product's public support repository and official BlendKit release link when available.
 
 <br>
 
-![Released](https://img.shields.io/badge/released-3%20add--ons-22C55E?style=for-the-badge)
-![Pending Review](https://img.shields.io/badge/pending%20review-2%20editions-F2C94C?style=for-the-badge)
+![Released](https://img.shields.io/badge/released-5%20editions%20%2F%20products-22C55E?style=for-the-badge)
 ![On Hold](https://img.shields.io/badge/in%20development%20%5Bon--hold%5D-5%20add--ons-7C3AED?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 
@@ -33,7 +32,7 @@ Each add-on below includes:
 
 - a short professional overview
 - current release or review status
-- official Blendkit access for released add-ons
+- official BlendKit access for released add-ons
 - a direct link to its support repository
 
 ---
@@ -59,16 +58,15 @@ If DRH add-ons help improve your Blender workflow, you can support ongoing devel
 ## Status legend
 
 - 🟢 **Released** - approved and available for download.
-- 🟡 **Pending Review** - submitted and awaiting provider approval.
 - 🟣 **In Development [On-Hold]** - development is paused and will resume after the active project is finalized.
 
 ## Availability
 
-Official installable releases for the currently released DRH add-ons are distributed through Blendkit.
+Official installable releases for the currently released DRH add-ons are distributed through BlendKit.
 
-**DRH - Object Layout Studio Complete and Lite have both been submitted and are currently awaiting provider approval.** Their official release links will be added here after approval.
+**DRH - Object Layout Studio Complete and Lite are now available on BlendKit.**
 
-GitHub remains the primary public location for support, manuals, changelogs, compatibility reports, feedback, and issue tracking; official release packages are obtained from Blendkit.
+GitHub remains the primary public location for support, manuals, changelogs, compatibility reports, feedback, and issue tracking; official release packages are obtained from BlendKit.
 
 ---
 
@@ -83,21 +81,21 @@ GitHub remains the primary public location for support, manuals, changelogs, com
 A Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps users generate, sample, convert, refine, restore, and reuse Color Ramp setups for shader, material, Geometry Nodes, and compositing workflows.
 
 - **Status:** 🟢 Released
-- **View on Blendkit:** [DRH - Color Ramp Studio](https://www.blendkit.com/asset-gallery-detail/45ca1690-0ca4-4265-8a35-8b0d69f5dbb6/)
+- **View on BlendKit:** [DRH - Color Ramp Studio](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/)
 - **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support)
 
 ---
 
-### DRH - Add-ons Audit
+### DRH - Add-on Manager & Audit
 
 <a href="https://github.com/pacosalasv/DRH_Addons_Audit-Support">
-  <img width="360" alt="DRH - Add-ons Audit banner" src="https://github.com/pacosalasv/DRH_Addons_Audit-Support/blob/main/docs/media/Logo.png" />
+  <img width="360" alt="DRH - Add-on Manager & Audit banner" src="https://github.com/pacosalasv/DRH_Addons_Audit-Support/blob/main/docs/media/Logo.png" />
 </a>
 
-A production-focused auditing and maintenance toolkit for Blender add-ons and extensions. **DRH - Add-ons Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
+A production-focused auditing and maintenance toolkit for Blender add-ons and extensions. **DRH - Add-on Manager & Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
 
 - **Status:** 🟢 Released
-- **View on Blendkit:** [DRH - Add-ons Audit](https://www.blendkit.com/asset-gallery-detail/4436e85f-073d-4eb2-8271-d58648303a3f/)
+- **View on BlendKit:** [DRH - Add-on Manager & Audit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
 - **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support)
 
 ---
@@ -111,7 +109,7 @@ A production-focused auditing and maintenance toolkit for Blender add-ons and ex
 A dual-unit transform and scene-measurement workflow tool for Blender. **DRH - Dual Units** is designed for users who need faster unit switching, clearer dimension feedback, dual-unit measurement context, and better scale awareness while modeling, laying out scenes, creating product visualizations, preparing technical setups, or working on scale-sensitive production assets.
 
 - **Status:** 🟢 Released
-- **View on Blendkit:** [DRH - Dual Units](https://www.blendkit.com/asset-gallery-detail/4c29e51b-2fc4-4b44-86f4-20139299b434/)
+- **View on BlendKit:** [DRH - Dual Units & Measurements](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
 - **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dual_Units-Support)
 
 ---
@@ -129,9 +127,8 @@ A dual-unit transform and scene-measurement workflow tool for Blender. **DRH - D
 
 An object layout workflow toolkit for Blender. **DRH - Object Layout Studio** helps users align, distribute, arrange, orient, register, ground, quantize, and transform objects for precise scene layout and geometry workflows.
 
-- **Complete:** Align, Transform, Advanced, Utility - 🟡 **Pending Review**
-- **Lite:** Align, Transform - 🟡 **Pending Review**
-- **Review status:** Both editions have been submitted and are awaiting provider approval.
+- **Complete:** Align, Transform, Advanced, Utility - 🟢 **Released** · [View on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
+- **Lite:** Align, Transform - 🟢 **Released** · [View on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
 - **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support)
 
 ---
@@ -206,19 +203,11 @@ A clock generation toolkit for Blender. **DRH - Clock Studio** helps users creat
 
 Additional DRH add-ons and concepts currently planned or being expanded as part of the DRH ecosystem.
 
-- **DRH - Node Toolkit**  
-  Faster node cleanup, layout, resizing, reroute removal, color control, and material graph organization.
-
-- **DRH - Smart Cut**  
-  Precision slicing, symmetry cuts, cutter planes, caps, and bevel-ready results for hard-surface production.
-- **DRH - Material Inventory**  
-  Material reports, image diagnostics, node checks, and exportable review data for production cleanup.
-
-- **DRH - Asset Library Tools**  
-  Metadata, licensing, previews, copyright tools, and library cleanup for publish-ready asset collections.
-
-- **DRH - Cloud Studio**  
-  Cinematic skies, soft volumes, and atmospheric depth for environment-driven scene building.
+- **DRH - Node Toolkit — Planned.** Faster node cleanup, layout, resizing, reroute removal, color control, and material graph organization. [Public roadmap / support](https://github.com/pacosalasv/DRH_Node_Toolkit-Support)
+- **DRH - Smart Cut — Planned.** Precision slicing, symmetry cuts, cutter planes, caps, and bevel-ready results for hard-surface production. [Public roadmap / support](https://github.com/pacosalasv/DRH_Smart_Cut-Support)
+- **DRH - Material Inventory — Planned.** Material reports, image diagnostics, node checks, and exportable review data for production cleanup. [Public roadmap / support](https://github.com/pacosalasv/DRH_Material_Inventory-Support)
+- **DRH - Asset Library Tools — Planned.** Metadata, licensing, previews, copyright tools, and library cleanup for publish-ready asset collections. [Public roadmap / support](https://github.com/pacosalasv/DRH_Asset_Library_Tools-Support)
+- **DRH - Cloud Studio — Planned.** Cinematic skies, soft volumes, and atmospheric depth for environment-driven scene building. [Public roadmap / support](https://github.com/pacosalasv/DRH_Cloud_Studio-Support)
 
 Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
 
@@ -226,13 +215,12 @@ Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
 
 ---
 
-## More from DRH on Blendkit
+## More from DRH on BlendKit
 
 <a href="https://blendkit.com/?query=category_subtree:addon+author_id:205846">
-  <img width="220" alt="Blendkit logo" src="docs/media/Blendkit.png" />
+  <img width="220" alt="BlendKit logo" src="docs/media/Blendkit.png" />
 </a>
 
-Explore more Blender work by **Paco Salas | DRH** on Blendkit, including add-ons, shaders, materials, HDRIs, scenes, and production-ready resources.
+Explore more Blender work by **Paco Salas | DRH** on BlendKit, including add-ons, shaders, materials, HDRIs, scenes, and production-ready resources.
 
-**Blendkit profile:**  
-https://blendkit.com/?query=author_id%3A205846
+**BlendKit profile:** https://blendkit.com/?query=author_id%3A205846
