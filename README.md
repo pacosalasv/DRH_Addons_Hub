@@ -198,6 +198,23 @@ A clock generation toolkit for Blender. **DRH - Clock Studio** helps users creat
 
 ---
 
+
+### DRH - Scene Material Inventory
+
+<a href="https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support">
+  <img width="360" alt="DRH - Scene Material Inventory banner" src="https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support/blob/main/docs/media/Logo.png" />
+</a>
+
+A scene material auditing and reporting toolkit for Blender. **DRH - Scene Material Inventory** reviews material usage, reachable shader nodes, referenced images, common PBR map roles, color-space review hints, and optional collection details, then exports production-oriented HTML, XLSX, or CSV reports.
+
+- **Status:** 🟢 Released
+- **Version:** 1.0.0
+- **Blender:** 4.2+
+- **BlendKit:** [DRH profile](https://www.blendkit.com/?query=author_id:205846)
+- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support)
+
+---
+
 <details>
 <summary><H2><strong>Future Add-ons / Planned Development</strong></H2></summary>
 
