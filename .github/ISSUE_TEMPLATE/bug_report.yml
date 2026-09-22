@@ -1,5 +1,5 @@
 name: Repository issue
-description: Report a reproducible problem with the DRH Add-ons Hub repository or its links.
+description: Report a broken link, incorrect listing, or other reproducible problem in the DRH Add-ons Hub.
 title: "[Hub]: "
 labels:
   - bug
@@ -8,9 +8,10 @@ body:
     id: problem
     attributes:
       label: Problem
-      description: Describe the broken link, incorrect listing, or repository issue.
+      description: Identify the affected product, link, or section and describe what is wrong.
     validations:
       required: true
+
   - type: textarea
     id: expected
     attributes:

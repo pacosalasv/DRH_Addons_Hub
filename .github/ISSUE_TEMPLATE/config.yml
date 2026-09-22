@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Ask a question or get installation help
-    url: https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions
-    about: Use Discussions for how-to questions, setup help, troubleshooting, FAQ, and suggestions.
+  - name: Product-specific questions
+    url: https://github.com/pacosalasv/DRH_Addons_Hub
+    about: Open the product support repository listed in the Hub and use its Discussions area for setup or workflow questions.

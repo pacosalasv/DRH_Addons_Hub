@@ -1,4 +1,4 @@
-name: Documentation or compatibility listing
+name: Documentation or compatibility correction
 description: Report incorrect compatibility or documentation information in the DRH Add-ons Hub.
 title: "[Hub Docs]: "
 labels:
@@ -7,6 +7,7 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: Details
+      label: Correction
+      description: Identify the product and the information that needs to be corrected.
     validations:
       required: true

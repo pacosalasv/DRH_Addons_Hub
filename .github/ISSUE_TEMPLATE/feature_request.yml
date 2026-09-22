@@ -1,5 +1,5 @@
 name: Hub improvement
-description: Suggest an improvement to the DRH Add-ons Hub.
+description: Propose an improvement to the DRH Add-ons Hub.
 title: "[Hub Improvement]: "
 labels:
   - enhancement
@@ -7,6 +7,7 @@ body:
   - type: textarea
     id: suggestion
     attributes:
-      label: Suggested improvement
+      label: Proposed change
+      description: Explain what should change and why it would improve the catalog or support experience.
     validations:
       required: true

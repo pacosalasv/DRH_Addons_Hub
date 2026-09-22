@@ -1,243 +1,68 @@
 <div align="center">
   <img width="760" alt="DRH Add-ons Hub banner" src="docs/media/DRH_Hub.png" />
-</div>
-
-<br>
-
-<div align="center">
 
 # DRH Add-ons Hub
 
-Blender add-ons, workflow tools, and public support hubs by **DRH**.
+Blender tools by Paco Salas | DRH.
 
-**Author:** Paco Salas | DRH
-
-This repository is the central index for current and upcoming DRH add-ons, with direct access to each product's public support repository and official BlendKit release link when available.
-
-<br>
-
-![Released](https://img.shields.io/badge/released-5%20editions%20%2F%20products-22C55E?style=for-the-badge)
+![Released](https://img.shields.io/badge/released-6%20editions%20%2F%20products-22C55E?style=for-the-badge)
 ![On Hold](https://img.shields.io/badge/in%20development%20%5Bon--hold%5D-5%20add--ons-7C3AED?style=for-the-badge)
+![Planned](https://img.shields.io/badge/planned-5%20add--ons-64748B?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-
 </div>
 
----
+## Repository purpose
 
-## About
+This repository is the index for DRH Blender add-ons. It links each public support repository and the official BlendKit page when a release is available. Installable packages are not mirrored here.
 
-**DRH Add-ons Hub** is the central place to explore my Blender add-ons across procedural workflows, utility tools, technical helpers, and production-focused systems.
+## Released products
 
-Each add-on below includes:
+| Product | Scope | Distribution | Support |
+|---|---|---|---|
+| DRH - Color Ramp Studio | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| DRH - Add-on Manager & Audit | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) | [Repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
+| DRH - Dual Units & Measurements | Metric/imperial review, measurement context, unit switching, and scale-aware workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) | [Repository](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
+| DRH - Object Layout Studio Complete | Align, Transform, Advanced, and Utility workflows for precise object layout. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| DRH - Object Layout Studio Lite | Align and Transform workflows in a smaller edition. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| DRH - Scene Material Inventory | Material, shader-node, image, PBR-map, collection, and report auditing. Version 1.0.0; Blender 4.2+. | [DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846) | [Repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
-- a short professional overview
-- current release or review status
-- official BlendKit access for released add-ons
-- a direct link to its support repository
+## Development on hold
 
----
+| Product | Scope | Support |
+|---|---|---|
+| DRH - Asset Pipeline Studio | Multi-format import/export, validation, reporting, and batch asset handoff. | [Repository](https://github.com/pacosalasv/DRH_Asset_Pipeline_Studio-Support) |
+| DRH - Mechanical Component Builder | Fasteners, screws, nuts, washers, springs, cutters, and simple assemblies. | [Repository](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support) |
+| DRH - Rock Studio | Procedural rock creation with Mesh and Geometry Nodes workflows. | [Repository](https://github.com/pacosalasv/DRH_Rock_Studio-Support) |
+| DRH - Dice Forge | Mesh-based dice generation with body, label, relief, and color controls. | [Repository](https://github.com/pacosalasv/DRH_Dice_Studio-Support) |
+| DRH - Clock Studio | Customizable clock generation for props, visualization, and scene work. | [Repository](https://github.com/pacosalasv/DRH_Clock_Studio-Support) |
 
-## Support DRH Development
+## Planned add-ons
 
-If DRH add-ons help improve your Blender workflow, you can support ongoing development on **Ko-fi**. Contributions help fund maintenance, Blender compatibility updates, documentation, testing, and new production-focused tools across the DRH ecosystem. Support is completely optional, and community feedback remains welcome across all DRH support repositories.
+| Product | Current direction | Roadmap |
+|---|---|---|
+| DRH - Node Toolkit | Node cleanup, layout, resizing, reroute removal, color control, and graph organization. | [Repository](https://github.com/pacosalasv/DRH_Node_Toolkit-Support) |
+| DRH - Smart Cut | Precision slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation. | [Repository](https://github.com/pacosalasv/DRH_Smart_Cut-Support) |
+| DRH - Material Inventory | Material reports, image diagnostics, node checks, and review data. | [Repository](https://github.com/pacosalasv/DRH_Material_Inventory-Support) |
+| DRH - Asset Library Tools | Metadata, licensing, previews, copyright information, and collection cleanup. | [Repository](https://github.com/pacosalasv/DRH_Asset_Library_Tools-Support) |
+| DRH - Cloud Studio | Skies, volumetrics, atmospheric depth, and environment workflows. | [Repository](https://github.com/pacosalasv/DRH_Cloud_Studio-Support) |
+
+## Distribution and support
+
+Released add-ons are distributed through [BlendKit](https://www.blendkit.com/?query=author_id:205846). GitHub contains documentation, issue tracking, compatibility reports, changelogs, and public support material.
+
+Use each product repository for product-specific questions or bug reports. Use this hub for incorrect catalog information or broken distribution/support links.
+
+## Support DRH development
+
+Support through [Ko-fi](https://ko-fi.com/pacosalasv) is optional and helps cover maintenance, compatibility work, documentation, and testing.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Donate on Ko-fi to support DRH" src="docs/media/kofi_donate.png" />
+    <img width="520" alt="Support DRH on Ko-fi" src="docs/media/kofi_donate.png" />
   </a>
 </div>
 
-<div align="center">
+## Related links
 
-[**Support DRH on Ko-fi**](https://ko-fi.com/pacosalasv)
-
-</div>
-
----
-
-## Status legend
-
-- 🟢 **Released** - approved and available for download.
-- 🟣 **In Development [On-Hold]** - development is paused and will resume after the active project is finalized.
-
-## Availability
-
-Official installable releases for the currently released DRH add-ons are distributed through BlendKit.
-
-**DRH - Object Layout Studio Complete and Lite are now available on BlendKit.**
-
-GitHub remains the primary public location for support, manuals, changelogs, compatibility reports, feedback, and issue tracking; official release packages are obtained from BlendKit.
-
----
-
-## Add-ons
-
-### DRH - Color Ramp Studio
-
-<a href="https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support">
-  <img width="360" alt="DRH - Color Ramp Studio banner" src="https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A Color Ramp workflow toolkit for Blender. **DRH - Color Ramp Studio** helps users generate, sample, convert, refine, restore, and reuse Color Ramp setups for shader, material, Geometry Nodes, and compositing workflows.
-
-- **Status:** 🟢 Released
-- **View on BlendKit:** [DRH - Color Ramp Studio](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/)
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support)
-
----
-
-### DRH - Add-on Manager & Audit
-
-<a href="https://github.com/pacosalasv/DRH_Addons_Audit-Support">
-  <img width="360" alt="DRH - Add-on Manager & Audit banner" src="https://github.com/pacosalasv/DRH_Addons_Audit-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A production-focused auditing and maintenance toolkit for Blender add-ons and extensions. **DRH - Add-on Manager & Audit** is built for users who need better visibility across installations, safer maintenance workflows, conflict review, snapshot comparison, and export-ready reporting for troubleshooting and pipeline oversight.
-
-- **Status:** 🟢 Released
-- **View on BlendKit:** [DRH - Add-on Manager & Audit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support)
-
----
-
-### DRH - Dual Units
-
-<a href="https://github.com/pacosalasv/DRH_Dual_Units-Support">
-  <img width="360" alt="DRH - Dual Units banner" src="https://github.com/pacosalasv/DRH_Dual_Units-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A dual-unit transform and scene-measurement workflow tool for Blender. **DRH - Dual Units** is designed for users who need faster unit switching, clearer dimension feedback, dual-unit measurement context, and better scale awareness while modeling, laying out scenes, creating product visualizations, preparing technical setups, or working on scale-sensitive production assets.
-
-- **Status:** 🟢 Released
-- **View on BlendKit:** [DRH - Dual Units & Measurements](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/)
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dual_Units-Support)
-
----
-
-### DRH - Object Layout Studio
-
-<p>
-  <a href="https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support">
-    <img width="320" alt="DRH - Object Layout Studio Complete" src="https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/blob/main/docs/media/Logo.png" />
-  </a>
-  <a href="https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support">
-    <img width="320" alt="DRH - Object Layout Studio Lite" src="https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/blob/main/docs/media/LogoLite.png" />
-  </a>
-</p>
-
-An object layout workflow toolkit for Blender. **DRH - Object Layout Studio** helps users align, distribute, arrange, orient, register, ground, quantize, and transform objects for precise scene layout and geometry workflows.
-
-- **Complete:** Align, Transform, Advanced, Utility - 🟢 **Released** · [View on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
-- **Lite:** Align, Transform - 🟢 **Released** · [View on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support)
-
----
-
-### DRH - Asset Pipeline Studio
-
-<a href="https://github.com/pacosalasv/DRH_Asset_Pipeline_Studio-Support">
-  <img width="360" alt="DRH - Asset Pipeline Studio banner" src="https://github.com/pacosalasv/DRH_Asset_Pipeline_Studio-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A professional multi-format asset pipeline add-on for Blender focused on importing, exporting, validating, inspecting, reporting, and batch-processing 3D assets across studio, game, CAD, marketplace, web, and 3D print workflows. **DRH - Asset Pipeline Studio** is built for cleaner handoff workflows, format interoperability, asset checking, local validation reports, and repeatable production-oriented file exchange.
-
-- **Status:** 🟣 In Development [On-Hold]
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Asset_Pipeline_Studio-Support)
-
----
-
-### DRH - Mechanical Component Builder
-
-<a href="https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support">
-  <img width="360" alt="DRH - Mechanical Component Builder banner" src="https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A mechanical hardware component toolkit for Blender. **DRH - Mechanical Component Builder** helps artists generate reusable hard-surface components such as fasteners, screws, nuts, washers, and springs, with cutter and assembly workflows for faster asset creation, scene detailing, and production-ready mechanical hardware setups.
-
-- **Status:** 🟣 In Development [On-Hold]
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support)
-
----
-
-### DRH - Rock Studio
-
-<a href="https://github.com/pacosalasv/DRH_Rock_Studio-Support">
-  <img width="360" alt="DRH - Rock Studio banner" src="https://github.com/pacosalasv/DRH_Rock_Studio-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A procedural rock creation toolkit for Blender. **DRH - Rock Studio** helps users generate procedural rock assets as Mesh objects or Geometry Nodes setups, with predefined 2D and 3D placement arrangements for faster environment and asset workflows.
-
-- **Status:** 🟣 In Development [On-Hold]
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Rock_Studio-Support)
-
----
-
-### DRH - Dice Forge
-
-<a href="https://github.com/pacosalasv/DRH_Dice_Studio-Support">
-  <img width="360" alt="DRH - Dice Forge banner" src="https://github.com/pacosalasv/DRH_Dice_Studio-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A mesh-based dice generation toolkit for Blender. **DRH - Dice Forge** helps users create customizable dice meshes with labels, bevels, materials, and tabletop-ready variations for RPG, board game, render, prototype, and custom dice workflows.
-
-- **Status:** 🟣 In Development [On-Hold]
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Dice_Studio-Support)
-
----
-
-### DRH - Clock Studio
-
-<a href="https://github.com/pacosalasv/DRH_Clock_Studio-Support">
-  <img width="360" alt="DRH - Clock Studio banner" src="https://github.com/pacosalasv/DRH_Clock_Studio-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A clock generation toolkit for Blender. **DRH - Clock Studio** helps users create customizable clock meshes with faces, hands, markers, bezels, materials, and scene-ready variations for interiors, product visualization, game props, animation, architectural renders, and stylized environments.
-
-- **Status:** 🟣 In Development [On-Hold]
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Clock_Studio-Support)
-
----
-
-
-### DRH - Scene Material Inventory
-
-<a href="https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support">
-  <img width="360" alt="DRH - Scene Material Inventory banner" src="https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support/blob/main/docs/media/Logo.png" />
-</a>
-
-A scene material auditing and reporting toolkit for Blender. **DRH - Scene Material Inventory** reviews material usage, reachable shader nodes, referenced images, common PBR map roles, color-space review hints, and optional collection details, then exports production-oriented HTML, XLSX, or CSV reports.
-
-- **Status:** 🟢 Released
-- **Version:** 1.0.0
-- **Blender:** 4.2+
-- **BlendKit:** [DRH profile](https://www.blendkit.com/?query=author_id:205846)
-- **Support:** [Open support repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support)
-
----
-
-<details>
-<summary><H2><strong>Future Add-ons / Planned Development</strong></H2></summary>
-
-Additional DRH add-ons and concepts currently planned or being expanded as part of the DRH ecosystem.
-
-- **DRH - Node Toolkit — Planned.** Faster node cleanup, layout, resizing, reroute removal, color control, and material graph organization. [Public roadmap / support](https://github.com/pacosalasv/DRH_Node_Toolkit-Support)
-- **DRH - Smart Cut — Planned.** Precision slicing, symmetry cuts, cutter planes, caps, and bevel-ready results for hard-surface production. [Public roadmap / support](https://github.com/pacosalasv/DRH_Smart_Cut-Support)
-- **DRH - Material Inventory — Planned.** Material reports, image diagnostics, node checks, and exportable review data for production cleanup. [Public roadmap / support](https://github.com/pacosalasv/DRH_Material_Inventory-Support)
-- **DRH - Asset Library Tools — Planned.** Metadata, licensing, previews, copyright tools, and library cleanup for publish-ready asset collections. [Public roadmap / support](https://github.com/pacosalasv/DRH_Asset_Library_Tools-Support)
-- **DRH - Cloud Studio — Planned.** Cinematic skies, soft volumes, and atmospheric depth for environment-driven scene building. [Public roadmap / support](https://github.com/pacosalasv/DRH_Cloud_Studio-Support)
-
-Community feedback is welcome as the DRH add-ons ecosystem continues to expand.
-
-</details>
-
----
-
-## More from DRH on BlendKit
-
-<a href="https://blendkit.com/?query=category_subtree:addon+author_id:205846">
-  <img width="220" alt="BlendKit logo" src="docs/media/Blendkit.png" />
-</a>
-
-Explore more Blender work by **Paco Salas | DRH** on BlendKit, including add-ons, shaders, materials, HDRIs, scenes, and production-ready resources.
-
-**BlendKit profile:** https://blendkit.com/?query=author_id%3A205846
+- [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846)
+- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
