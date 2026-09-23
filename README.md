@@ -14,13 +14,13 @@ Practical Blender tools by Paco Salas | DRH.
 
 ## Start here
 
-This repository is the public index for DRH Blender add-ons. Use BlendKit for approved releases and downloads; use GitHub for documentation, support, compatibility reports, changelogs, and product feedback.
+This repository is the public index for DRH Blender add-ons. Use the **Download** links for approved releases; use GitHub for documentation, support, compatibility reports, changelogs, and product feedback.
 
 Installable add-on packages are not mirrored in this repository.
 
 ## Released products
 
-| Product | Scope | BlendKit | Support |
+| Product | Scope | Download | Support |
 |---|---|---|---|
 | **DRH - Color Ramp Studio** · v1.0.0 | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
 | **DRH - Add-on Manager & Audit** · v1.0.0 | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) | [Repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
@@ -30,7 +30,7 @@ Installable add-on packages are not mirrored in this repository.
 
 ## Under revision
 
-| Product | Status | Scope | BlendKit | Support |
+| Product | Status | Scope | Download | Support |
 |---|---|---|---|---|
 | **DRH - Scene Material Inventory** · v1.0.0 candidate | **Under revision (not approved yet)** | Material, shader-node, image, PBR-map, collection, and report auditing. | Approval pending; no approved product page is linked yet. | [Repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
@@ -56,7 +56,7 @@ Installable add-on packages are not mirrored in this repository.
 
 ## Download, support, and feedback
 
-Approved releases are distributed through [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846). Each support repository contains the relevant documentation, manual, changelog, Issues, and Discussions.
+Approved releases are distributed through [DRH download catalog](https://www.blendkit.com/?query=author_id:205846). Each support repository contains the relevant documentation, manual, changelog, Issues, and Discussions.
 
 If a tool is useful in your workflow, a BlendKit rating helps other Blender users discover it. For bugs or compatibility problems, open an Issue in the product support repository so the report stays tied to the correct add-on.
 
@@ -66,11 +66,11 @@ All currently released DRH add-ons listed above are free. Optional support throu
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="520" alt="Support DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
 ## Related links
 
-- [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846)
+- [DRH download catalog](https://www.blendkit.com/?query=author_id:205846)
 - [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
