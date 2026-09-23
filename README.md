@@ -7,7 +7,7 @@ Practical Blender tools by Paco Salas | DRH.
 
 ![Released](https://img.shields.io/badge/released-5%20editions%20%2F%20products-22C55E?style=for-the-badge)
 ![Under revision](https://img.shields.io/badge/under%20revision-1%20add--on-F59E0B?style=for-the-badge)
-![On Hold](https://img.shields.io/badge/in%20development%20%5Bon--hold%5D-5%20add--ons-7C3AED?style=for-the-badge)
+![On Hold](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
 ![Planned](https://img.shields.io/badge/planned-5%20add--ons-64748B?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 </div>
@@ -16,7 +16,7 @@ Practical Blender tools by Paco Salas | DRH.
 
 This repository is the public index for DRH Blender add-ons. Use the **Download** links for approved releases; use GitHub for documentation, support, compatibility reports, changelogs, and product feedback.
 
-Installable add-on packages are not mirrored in this repository.
+Use each product's Download link for the current public release.
 
 ## Released products
 
@@ -72,5 +72,8 @@ All currently released DRH add-ons listed above are free. Optional support throu
 
 ## Related links
 
-- [DRH download catalog](https://www.blendkit.com/?query=author_id:205846)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
+- [DRH downloads on BlendKit](https://www.blendkit.com/?query=author_id:205846)
+- [Paco Salas | DRH](https://pacosalasv.blogspot.com/)
+- [Xtreme Mindset](https://xtrememindset.blogspot.com/)
+- [KreaOn](https://www.kreaon.com/)
+- [Ko-fi](https://ko-fi.com/pacosalasv)
