@@ -21,13 +21,12 @@ Use each product's Download link for the current public release.
 
 | Product | Scope | Download | Support |
 |---|---|---|---|
-| **DRH - Color Ramp Studio** · v1.1.0 | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
-| **DRH - Add-on Manager & Audit** · v1.0.0 | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) | [Repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
-| **DRH - Dual Units & Measurements** · v1.1.0 | Metric/imperial review, measurement context, unit switching, and scale-aware workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) | [Repository](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
 | **DRH - Object Layout Studio Complete** · v1.0.0 | Align, Transform, Advanced, and Utility workflows for precise object layout. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| **DRH - Object Layout Studio Lite** · v1.0.0 | Align and Transform workflows in a smaller focused edition. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Color Ramp Studio** · v1.1.0 | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| **DRH - Dual Units & Measurements** · v1.1.0 | Metric/imperial review, measurement context, unit switching, and scale-aware workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) | [Repository](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
+| **DRH - Add-on Manager & Audit** · v1.0.0 | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) | [Repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 | **DRH - Scene Material Inventory** · v1.0.0 | Material, shader-node, image, PBR-map, collection, and report auditing. | [Download](https://www.blendkit.com/asset-gallery-detail/8225a754-32cd-482d-a0d3-84ea3850fc8f/) | [Repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
-
+| **DRH - Object Layout Studio Lite** · v1.0.0 | Align and Transform workflows in a smaller focused edition. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 
 ## Development on hold
 
@@ -67,8 +66,13 @@ All currently released DRH add-ons listed above are free. Optional support throu
 
 ## Related links
 
-- [DRH downloads on BlendKit](https://www.blendkit.com/?query=author_id:205846)
-- [Paco Salas | DRH](https://pacosalasv.blogspot.com/)
-- [Xtreme Mindset](https://xtrememindset.blogspot.com/)
-- [KreaOn](https://www.kreaon.com/)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
+| Destination | Link |
+|---|---|
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
+| Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
+| Sketchfab / Código Píxel | [3D model collections](https://sketchfab.com/codigopixel/collections) |
+| KreaOn | [Technology education](https://www.kreaon.com/) |
+| PiNu | [Connected physical products](https://pinu.com.mx/) |
+| GitHub | [pacosalasv](https://github.com/pacosalasv) |
