@@ -56,12 +56,14 @@ If a tool is useful in your workflow, a BlendKit rating helps other Blender user
 
 ## Support DRH development
 
-All currently released DRH add-ons listed above are free. Optional support through [Ko-fi](https://ko-fi.com/pacosalasv) helps cover maintenance, Blender compatibility work, documentation, and testing.
+All currently released DRH add-ons listed above are free. Optional support through Ko-fi or PayPal helps cover maintenance, Blender compatibility work, documentation, and testing.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
     <img width="520" alt="Support DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
+  <br />
+  <strong>Prefer PayPal?</strong> <a href="https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX">Support DRH development with PayPal</a>
 </div>
 
 ## Related links
@@ -69,6 +71,7 @@ All currently released DRH add-ons listed above are free. Optional support throu
 | Destination | Link |
 |---|---|
 | Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| PayPal | [Support development](https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX) |
 | BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
 | Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
 | Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
