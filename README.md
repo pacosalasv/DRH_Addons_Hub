@@ -5,8 +5,7 @@
 
 Practical Blender tools by Paco Salas | DRH.
 
-![Released](https://img.shields.io/badge/released-5%20editions%20%2F%20products-22C55E?style=for-the-badge)
-![Under revision](https://img.shields.io/badge/under%20revision-1%20add--on-F59E0B?style=for-the-badge)
+![Released](https://img.shields.io/badge/released-6%20editions%20%2F%20products-22C55E?style=for-the-badge)
 ![On Hold](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
 ![Planned](https://img.shields.io/badge/planned-5%20add--ons-64748B?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
@@ -22,17 +21,13 @@ Use each product's Download link for the current public release.
 
 | Product | Scope | Download | Support |
 |---|---|---|---|
-| **DRH - Color Ramp Studio** · v1.0.0 | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| **DRH - Color Ramp Studio** · v1.1.0 | Color Ramp generation, sampling, conversion, editing, and reusable node workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) | [Repository](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
 | **DRH - Add-on Manager & Audit** · v1.0.0 | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) | [Repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 | **DRH - Dual Units & Measurements** · v1.1.0 | Metric/imperial review, measurement context, unit switching, and scale-aware workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) | [Repository](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
 | **DRH - Object Layout Studio Complete** · v1.0.0 | Align, Transform, Advanced, and Utility workflows for precise object layout. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 | **DRH - Object Layout Studio Lite** · v1.0.0 | Align and Transform workflows in a smaller focused edition. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) | [Repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Scene Material Inventory** · v1.0.0 | Material, shader-node, image, PBR-map, collection, and report auditing. | [Download](https://www.blendkit.com/asset-gallery-detail/8225a754-32cd-482d-a0d3-84ea3850fc8f/) | [Repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
-## Under revision
-
-| Product | Status | Scope | Download | Support |
-|---|---|---|---|---|
-| **DRH - Scene Material Inventory** · v1.0.0 candidate | **Under revision (not approved yet)** | Material, shader-node, image, PBR-map, collection, and report auditing. | Approval pending; no approved product page is linked yet. | [Repository](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
 ## Development on hold
 
